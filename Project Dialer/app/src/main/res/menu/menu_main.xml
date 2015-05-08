@@ -1,0 +1,18 @@
+<menu xmlns:SideMaster="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        SideMaster:id="@+id/enviar_mensaje"
+        SideMaster:title="Enviar Mensaje"
+        SideMaster:orderInCategory="100"
+        SideMaster:showAsAction="never"
+        />
+
+    <item
+        SideMaster:id="@+id/contacto"
+        SideMaster:title="Añadir Contacto"
+        SideMaster:orderInCategory="100"
+        SideMaster:showAsAction="never"
+        />
+
+</menu>
