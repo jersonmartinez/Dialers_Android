@@ -1,8 +1,0 @@
------------------------------------------------------------
-Nombres de integrantes			N. Carnet.
------------------------------------------------------------
-Jerson Antonio Martínez Moreno		13-01667-0
-Jonathan David Herradora Argeñal	11-01530-0
------------------------------------------------------------
-
-Nota: Este proyecto fué realizado en el IDE Android Studio.
